@@ -1,1 +1,10 @@
-
+.tabla{
+    border: 1cap;
+    box-shadow: yellowgreen;
+    background-color: yellowgreen;
+    height: 70px;
+    
+}
+body{
+    background-color: darkgreen;
+}
